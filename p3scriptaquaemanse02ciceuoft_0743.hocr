@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p3scriptaquaemanse02ciceuoft_0743.png"; bbox 0 0 1671 2543; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 532 135 1368 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 532 135 1368 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 532 135 1368 172; baseline 0 2371"><span class='ocrx_word' id='word_1_1' title='bbox 532 135 1368 172; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 550 184 1282 408">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 550 184 1282 408">
+     <span class='ocr_line' id='line_1_2' title="bbox 550 184 1282 408; baseline 0.034 -48"><span class='ocrx_word' id='word_1_2' title='bbox 550 184 997 408; x_wconf 56' lang='lat' dir='ltr'>&#39;ffiversny</span> <span class='ocrx_word' id='word_1_3' title='bbox 963 296 1044 375; x_wconf 85' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_4' title='bbox 1056 238 1282 384; x_wconf 72' lang='lat' dir='ltr'><strong>Torento</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 187 1369 981">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 187 1369 981">
+     <span class='ocr_line' id='line_1_3' title="bbox 520 187 548 376; baseline 0 2167"><span class='ocrx_word' id='word_1_5' title='bbox 520 187 548 376; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 392 187 1369 981; baseline 0.002 -465"><span class='ocrx_word' id='word_1_6' title='bbox 392 187 1369 981; x_wconf 95' lang='lat' dir='ltr'>           </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 103 312 1058 517">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 103 312 1058 517">
+     <span class='ocr_line' id='line_1_5' title="bbox 111 312 297 376; baseline 0.075 -13"><span class='ocrx_word' id='word_1_7' title='bbox 111 312 151 365; x_wconf 51' lang='grc' dir='ltr'>ἕ</span> <span class='ocrx_word' id='word_1_8' title='bbox 244 315 297 376; x_wconf 46' lang='grc' dir='ltr'><strong><em>Ξ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 103 375 1058 517; baseline 0.035 -50"><span class='ocrx_word' id='word_1_9' title='bbox 103 375 147 468; x_wconf 89' lang='lat'>5</span> <span class='ocrx_word' id='word_1_10' title='bbox 548 411 555 481; x_wconf 90' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 669 513 673 517; x_wconf 13' lang='lat'>³</span> <span class='ocrx_word' id='word_1_12' title='bbox 846 415 1058 517; x_wconf 78' lang='lat' dir='ltr'>Library</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 486 731 1013 950">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 486 731 1013 950">
+     <span class='ocr_line' id='line_1_7' title="bbox 620 731 1012 801; baseline 0.033 -11"><span class='ocrx_word' id='word_1_13' title='bbox 620 731 755 794; x_wconf 91' lang='lat' dir='ltr'>DO</span> <span class='ocrx_word' id='word_1_14' title='bbox 790 735 1012 801; x_wconf 87' lang='lat' dir='ltr'>NOT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 486 875 1013 950; baseline 0.036 -21"><span class='ocrx_word' id='word_1_15' title='bbox 486 923 514 950; x_wconf 36' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_16' title='bbox 616 875 1013 946; x_wconf 81' lang='lat' dir='ltr'>REMOVE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
